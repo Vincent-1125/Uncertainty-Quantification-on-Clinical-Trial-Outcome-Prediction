@@ -1,1 +1,1 @@
-# HINT_with_uncertainty_quantification
+# Uncertainty Quantification on Clinical Trial Outcome Prediction
