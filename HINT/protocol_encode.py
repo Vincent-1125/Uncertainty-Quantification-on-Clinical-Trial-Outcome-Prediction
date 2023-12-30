@@ -76,7 +76,7 @@ def save_sentence_bert_dict_pkl():
 	return 
 
 def load_sentence_2_vec():
-	sentence_2_vec = pickle.load(open('../data/sentence2embedding.pkl', 'rb'))
+	sentence_2_vec = pickle.load(open('data/sentence2embedding.pkl', 'rb'))
 	return sentence_2_vec 
 
 def protocol2feature(protocol, sentence_2_vec):
