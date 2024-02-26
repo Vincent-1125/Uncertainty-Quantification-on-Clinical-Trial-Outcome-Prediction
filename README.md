@@ -1,1 +1,1 @@
-# Uncertainty Quantification on Clinical Trial Outcome Prediction
+# Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction
